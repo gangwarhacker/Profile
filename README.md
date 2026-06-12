@@ -14,7 +14,6 @@ I'm currently working on web penetration.<br>I'm currently learning AI ML Securi
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gangwarhacker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=gangwarhacker&icon=6&color=5)](https://visitcount.itsvg.in)
 
